@@ -27,7 +27,7 @@ public class CreateController {
 	public Cohort getNewCohort() {
 		return newCohort;
 	}
-
+/****test****/
 	public void setNewCohort(Cohort newCohort) {
 		this.newCohort = newCohort;
 	}
