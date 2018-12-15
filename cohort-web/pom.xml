@@ -65,6 +65,14 @@
 			<groupId>org.wildfly.plugins</groupId>
 			<artifactId>wildfly-maven-plugin</artifactId>
 			<version>1.0.2.Final</version>
+			<!--add by me-->
+			<configuration>
+				<hostname>127.0.0.1</hostname>
+				<port>9990</port>
+				<username>sirsoir</username>
+				<password>sirsoir</password>
+			</configuration>
+			<!--add by me-->
 		</plugin>
     </plugins>
   </build>
