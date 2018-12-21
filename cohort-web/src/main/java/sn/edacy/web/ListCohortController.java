@@ -26,7 +26,7 @@ public class ListCohortController {
 	public List<Cohort> getCohorts() {
 		return cohorts;
 	}
-
+/**test**/
 	public void setCohorts(List<Cohort> cohorts) {
 		this.cohorts = cohorts;
 	}
