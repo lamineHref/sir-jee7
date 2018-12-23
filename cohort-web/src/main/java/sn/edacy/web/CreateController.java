@@ -10,7 +10,7 @@ import sn.edacy.model.Cohort;
 @Named
 @RequestScoped
 public class CreateController {
-	/**test***/
+	
     private Cohort newCohort = new Cohort();
     
     @Inject
